@@ -1,3 +1,7 @@
+
+![Screenshot 2024-07-04 111637](https://github.com/Dassourav07/User_Design/assets/94233240/33a0afd7-ab4f-4e73-b241-2e81cb896d0c)
+
+
 Project Description
 
 This project is a comprehensive web application built with a strong focus on security, user management, and streamlined data handling. Below is an in-depth look into the key components and functionalities of our application:
